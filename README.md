@@ -69,9 +69,3 @@ Your CSV or Excel file must include the following columns:
 ## 📁 License
 
 MIT License. See LICENSE for details.
-
-## ✉️ Contact
-
-Created for a Financial Data Analytics II course project.
-
-Feel free to fork or star this repo, or reach out via GitHub Issues!
